@@ -1,0 +1,14 @@
+units: fb
+ggwpwm_6TeV: 2795.3
+zzmumu_6TeV: 0.8298
+wpwm_vbs_6TeV: 257.7
+wpwmz_ztonunu_6TeV: 3.599
+wzmunu_6TeV: 283.2
+mumu_wwnunu_6TeV: 270.1
+mumu_wwnunu_T1_INT_1E-20_6TeV: 7.057e-7
+mumu_wwnunu_T1_QUAD_1E-20_6TeV: 4.624e-13
+FULL_1E-12_6TeV: 4648.0
+FULL_1E-13_6TeV: 46.55
+FULL_1E-14_6TeV: 0.4621
+FULL_3E-13_6TeV: 418.0
+FULL_5E-13_6TeV: 1165.0
